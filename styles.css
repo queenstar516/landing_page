@@ -123,6 +123,8 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 64px;
+    margin-top: 64px;
 }
 
 .quote-sub {
@@ -147,4 +149,44 @@ ul {
     color: #1f2937;
     display: flex;
     align-self: flex-end;
+}
+
+.signup {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background-color: #3882f6;
+    width: 900px;
+    height: 150px;
+    border-radius: 12px;
+    color: #f9faf8;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 64px;
+}
+
+.sign-up2 {
+    background-color: #3882f6;
+    border: 2px solid #f9faf8;
+    color: #f9faf8;
+    font-weight: bold;
+}
+
+.call {
+    margin-right: 24px;
+}
+
+.footer {
+    background-color: #1f2937;
+    color: #e5e7eb;
+    height: 100px;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
